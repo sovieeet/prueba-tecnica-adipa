@@ -15,6 +15,8 @@ Para el desarrollo de la prueba técnica, se usó en Jupyter, con la librerías 
 
 Todo el código del desarrollo **se encuentra documentado**, además, dentro del archivo se encuentran las respuestas, insights y recomendaciones de los datos.
 
+Además, todos los gráficos creados se encuentran en la carpeta `graphs`
+
 Este código se encuentra subido también en Github de manera privada usando las buenas prácticas de Gitflow. El link corresponde al [siguiente][repo].
 
 [repo]: https://github.com/sovieeet/prueba-tecnica-adipa
