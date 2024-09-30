@@ -1,6 +1,6 @@
 # Caso práctico: Análisis de rendimiento de búsquedas en un sitio web
 
-Este repositorio consiste en el desarrollo de la [prueba técnica](prueba_tecnica.ipynb), el cuál el desarrollo se encuentra [aquí](desarrollo.ipynb).
+Este repositorio consiste en el desarrollo de la [prueba técnica](prueba_tecnica.ipynb), el cuál consiste en el análisis de datos de un csv para responder 6 preguntas y obtener insights y recomendaciones. el desarrollo se encuentra [aquí](desarrollo.ipynb).
 
 Para empezar a desarrollar la prueba, primero hay que preparar el ambiente. Para este caso se hicieron los siguientes pasos de manera local:
 
