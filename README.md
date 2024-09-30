@@ -17,7 +17,7 @@ Todo el código del desarrollo **se encuentra documentado**, además, dentro del
 
 Este código se encuentra subido también en Github de manera privada usando las buenas prácticas de Gitflow. El link corresponde al [siguiente][repo].
 
-[repo]: http://git-scm.com/docs/gitignore
+[repo]: https://github.com/sovieeet/prueba-tecnica-adipa
 
 Personalmente me gustaría destacar dos cosas:
 
