@@ -20,9 +20,3 @@ Además, todos los gráficos creados se encuentran en la carpeta `graphs`
 Este código se encuentra subido también en Github de manera privada usando las buenas prácticas de Gitflow. El link corresponde al [siguiente][repo].
 
 [repo]: https://github.com/sovieeet/prueba-tecnica-adipa
-
-Personalmente me gustaría destacar dos cosas:
-
-- Al recibir la prueba tecnica en formato `.zip`, estaba presente el archivo `__MACOSX`, lo que es un archivo innecesario e indica que la prueba se realizó desde un dispositivo MAC.
-
-- Si bien es bueno simular casos reales en las pruebas técnicas, encuentro que el `df_tecnical_test.csv` posee muchos datos para una prueba técnica, además de pesar bastante (425 MB aproximadamente).
